@@ -35,7 +35,7 @@ Need headless-browsers? Try [Splash](https://github.com/scrapy-plugins/scrapy-sp
 
 Need tests? Need failures to alert Slack? Try [Spidermon](https://spidermon.readthedocs.io/en/latest/).
 
-Want to easily deploy your spiders? Try (Scrapyd)(https://scrapyd.readthedocs.io/en/latest/).
+Want to easily deploy your spiders? Try [Scrapyd](https://scrapyd.readthedocs.io/en/latest/).
 
 Need to monitor your spiders in real time? Try [Scrapydweb](https://github.com/my8100/scrapydweb).
 
