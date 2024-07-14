@@ -47,3 +47,9 @@ It goes on...
 
 Use the Right Tool for the Right Job.
 
+(Apparently, this was sufficient to make "Letter Of The Month"...)
+
+![LXF LOTM](lxf_letter.png)
+
+
+
