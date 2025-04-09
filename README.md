@@ -30,8 +30,7 @@ scrapy crawl lxf -o lxf_archive.csv
 Scrapy does things by default that novices don't know they need, and things that experienced
 data-miners are too busy to implement.
 
-Need headless-browsers? Try [Splash](https://github.com/scrapy-plugins/scrapy-splash) or
-[Selenium](https://github.com/clemfromspace/scrapy-selenium).
+Need headless-browsers? Try [Playwright](https://pypi.org/project/scrapy-playwright/).
 
 Need tests? Need failures to alert Slack? Try [Spidermon](https://spidermon.readthedocs.io/en/latest/).
 
